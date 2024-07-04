@@ -16,3 +16,7 @@ Features:
 Custom Animation Path: Uses a Bézier curve for a smooth and visually appealing animation.
 Randomized Attributes: Randomly selects the reaction type (thumbs-up or heart) and animation duration to add variability.
 Gesture Recognition: Responds to user taps, creating an interactive experience.
+
+
+Uploading Screen Recording 2024-07-04 at 10.19.15 PM.mov…
+
